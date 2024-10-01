@@ -1,4 +1,4 @@
-//This code performs binary search on a sorted array and calculates time and space complexity
+ //This code performs binary search on a sorted array and calculates time and space complexity
 #include<stdio.h>
  int main()
  {
