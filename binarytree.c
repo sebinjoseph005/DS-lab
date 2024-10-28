@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 void main(){
    int limit,i,pos;
    printf("enter the total number of nodes\n");
